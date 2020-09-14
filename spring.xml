@@ -1,0 +1,4 @@
+#配置要扫描的包
+#配置市图解析器
+#配置自定义日期转换器
+#配置开启mvc注解自动注册HandlerMapping和HandlerAdapter
